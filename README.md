@@ -1,4 +1,4 @@
-# 🎧 Audio Emotion Classifier — KNN Pipeline (Python + Librosa)
+# 🎧 Clasificación Multiclase - Análisis de Sentimiento en Voz Humana — Pipeline K-NN (Python + Librosa)
 
 Este proyecto implementa un pipeline **end-to-end** para clasificar emociones en audios cortos (Negativo / Neutro / Positivo) utilizando extracción de features acústicas, ingeniería de features, normalización y modelado con **K-Nearest Neighbors (KNN)**.
 Incluye entrenamiento, predicción sobre datos nuevos y evaluación final sobre el conjunto de test.
