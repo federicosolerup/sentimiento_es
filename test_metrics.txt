@@ -1,0 +1,16 @@
+MÉTRICAS EN CONJUNTO DE TEST
+========================================
+
+              precision    recall  f1-score   support
+
+    negativo     0.9167    0.7333    0.8148        15
+      neutro     1.0000    1.0000    1.0000        15
+    positivo     0.7778    0.9333    0.8485        15
+
+    accuracy                         0.8889        45
+   macro avg     0.8981    0.8889    0.8878        45
+weighted avg     0.8981    0.8889    0.8878        45
+
+Accuracy (TEST):    0.8889
+F1 macro (TEST):    0.8878
+F1 weighted (TEST): 0.8878
